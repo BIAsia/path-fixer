@@ -1,4 +1,4 @@
-# Preact Rectangles
+# Path Fixer
 
 ## Development guide
 
