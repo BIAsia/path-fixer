@@ -3,8 +3,10 @@
   "editorType": [
     "figma"
   ],
-  "id": "path-fixer",
+  "id": "1473934047960303481",
   "name": "Path Fixer",
   "main": "build/main.js",
+  "networkAccess": { "allowedDomains": ["none"] },
+  "documentAccess": "dynamic-page",
   "ui": "build/ui.js"
 }
